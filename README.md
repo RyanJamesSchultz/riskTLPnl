@@ -1,6 +1,6 @@
 # riskTLPnl
 
-We present a Matlab-based functional enviroment, riskTLPnl that simulates risk-based red-light thresholds for use in defining traffic light protocols.  This is a collection of codes used to create a study in apply the approach to prospective enhanced geothermal systems in the Netherlands [Schultz et al., 2021].  See also, prior works in developing this approach (as well as their GitHub repositories).
+We present a Matlab-based functional enviroment, riskTLPnl that simulates risk-based red-light thresholds for use in defining traffic light protocols.  This is a collection of codes used to create a study in apply the approach to prospective enhanced geothermal systems in the Netherlands [Schultz et al., 2022].  See also, prior works in developing this approach (as well as their GitHub repositories).
 
 These files are a collection of matlab programs and scripts: scriptRISK.m creates the datastructure and then scriptPLOTRISK.m plots the output results.
 
