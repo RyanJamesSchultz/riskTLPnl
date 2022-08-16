@@ -8,7 +8,7 @@ Note that licensed databases are missing from this work enviroment.  This will r
 
 References: 
             
-            R. Schultz, A. Muntendam‐Bos, W. Zhou, G.C. Beroza, & W.L. Ellsworth. (2021)
+            R. Schultz, A. Muntendam‐Bos, W. Zhou, G.C. Beroza, & W.L. Ellsworth. (2022)
             Induced seismicity red-light thresholds for enhanced geothermal prospects in the Netherlands
             Geothermics, XX, pp-pp.
             doi: xx.
