@@ -4,6 +4,8 @@ We present a Matlab-based functional enviroment, riskTLPnl that simulates risk-b
 
 These files are a collection of matlab programs and scripts: scriptRISK.m creates the datastructure and then scriptPLOTRISK.m plots the output results.
 
+Note that licensed databases are missing from this work enviroment.  This will require the user to find their own datasources to adapt the approach.
+
 References: 
             
             R. Schultz, A. Muntendam‐Bos, W. Zhou, G.C. Beroza, & W.L. Ellsworth. (2021)
