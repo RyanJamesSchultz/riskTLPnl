@@ -8,7 +8,7 @@ function [dM,Rs]=dM_distribution(b,Rs,flag,SizeVec)
   %  dM      -- Output magnitude difference (Mtrail-Mstim) vector.
   %
   % References:
-  % Schultz, R., Ellsworth, W.L., Beroza, G.C. (2022). Statistical bounds on how induced seismicity stops. Scientific Reports, XXX, doi: 10.1038/s41598-022-05216-9.
+  % Schultz, R., Ellsworth, W.L., Beroza, G.C. (2022). Statistical bounds on how induced seismicity stops. Scientific Reports, 12(1), 1-11, doi: 10.1038/s41598-022-05216-9.
   %
   % Written by Ryan Schultz.
   
