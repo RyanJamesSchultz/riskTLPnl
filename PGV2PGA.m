@@ -6,7 +6,8 @@ function PGA=PGV2PGA(PGV)
   % Written by Ryan Schultz.
   
   % Conversion of PGV into PGA.
-  PGA=0.9788*log10(PGV)+1.5519;
+  PGA=0.9788*log10(PGV)+1.5519; % Linear regression.
+  %PGA=1.3060*log10(PGV)+1.6250; % Orthogonal regression.
   PGA=10.^PGA;
   
 return
