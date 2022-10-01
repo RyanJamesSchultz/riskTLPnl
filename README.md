@@ -10,8 +10,8 @@ References:
             
             R. Schultz, A. Muntendam‐Bos, W. Zhou, G.C. Beroza, & W.L. Ellsworth. (2022)
             Induced seismicity red-light thresholds for enhanced geothermal prospects in the Netherlands
-            Geothermics, XX, pp-pp.
-            doi: xx.
+            Geothermics, 106, 102580.
+            doi: 10.1016/j.geothermics.2022.102580.
             
             R. Schultz, G.C. Beroza, & W.L. Ellsworth. (2021)
             A risk-based approach for managing hydraulic fracturing-induced seismicity
